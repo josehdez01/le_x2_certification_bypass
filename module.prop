@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=certification.vending
+name=Oneplus2: fix uncertified play store error
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=anupritaisno1
+description=(oneplus 2 only!) This module corrects an issue on custom ROMs that causes devjce certification to show uncertified. Do not use this if you are on stock ROM
 template=3
