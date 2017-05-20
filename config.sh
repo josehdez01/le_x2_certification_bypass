@@ -50,7 +50,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "Fake signature from official ROM"
+  ui_print "Fake signature from Indian ROM"
   ui_print "*******************************"
 }
 

@@ -1,7 +1,7 @@
-id=certification.vending
-name=Oneplus2: fix uncertified play store error
+id=certification.vending.lex2
+name=Fix uncertified play store error
 version=v1
 versionCode=1
-author=anupritaisno1
-description=(oneplus 2 only!) This module corrects an issue on custom ROMs that causes devjce certification to show uncertified. Do not use this if you are on stock ROM
+author=josehdez01
+description=This module corrects an issue that causes device certification to show uncertified.
 template=3
